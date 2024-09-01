@@ -25,6 +25,10 @@ blockquote {
   padding: 0;
 }
 
+button {
+  font: inherit;
+}
+
 a {
   color: inherit;
 }
